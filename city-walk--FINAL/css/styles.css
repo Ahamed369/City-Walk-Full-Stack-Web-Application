@@ -1,6 +1,6 @@
 /* City Walk - Main Styles CSS
    footwear e-commerce
-   Author: Student SA25610227 - M.H. Aazim
+   Author: M.R. Ahamed
    Module: Web Application Development - IT1201
 */
 
@@ -499,10 +499,10 @@ body {
     background-size: 120%;
 }
 
-.image-aazim-haris {
+.image-mr-ahamed {
     width: 100%;
     height: 100%;
-    background: url("../assets/icons/aazim-haris.jpeg") center/cover no-repeat, 
+    background: url("../assets/icons/mr-ahamed.jpeg") center/cover no-repeat, 
                 linear-gradient(135deg, #e6f3ff 0%, #f0f8ff 100%);
     background-size: 100%;
     border-radius: 50%;

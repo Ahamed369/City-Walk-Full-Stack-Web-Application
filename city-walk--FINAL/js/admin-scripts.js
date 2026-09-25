@@ -1,6 +1,6 @@
 /**
  * City Walk - Admin Panel JavaScript
- * Author: M.H. Aazim - SA25610227
+ * Author: M.R. Ahamed
  * Module: Web Application Development - IT1201
  */
 

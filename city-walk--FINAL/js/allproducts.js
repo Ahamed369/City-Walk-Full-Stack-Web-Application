@@ -1,5 +1,5 @@
 // City Walk - All Products Page JavaScript
-// Author: Student SA25610227 - M.H. Aazim
+// Author: M.R. Ahamed
 // Module: Web Application Development - IT1201
 
 // Store filtered products

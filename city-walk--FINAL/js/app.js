@@ -1,5 +1,5 @@
 // City Walk - Main JavaScript Application (Database Connected with All Modals)
-// Author: SA25610227 - M.H. Aazim
+// Author: M.R. Ahamed
 // Module: Web Application Development - IT1201
 
 // Global variables for application state

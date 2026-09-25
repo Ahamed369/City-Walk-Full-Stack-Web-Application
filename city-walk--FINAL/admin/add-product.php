@@ -1,7 +1,7 @@
 <?php
 /**
  * City Walk - Add Product (With Image Upload)
- * Author: M.H. Aazim - SA25610227
+ * Author: M.R. Ahamed
  */
 
 require_once '../auth.php';

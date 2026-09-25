@@ -1,7 +1,7 @@
 <?php
 /**
  * City Walk - Registration API
- * Author: M.H. Aazim - SA25610227
+ * Author: M.R. Ahamed
  * Module: Web Application Development - IT1201
  */
 

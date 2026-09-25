@@ -171,11 +171,11 @@ require_once 'auth.php';
                 <div class="team-grid">
                     <div class="team-member">
                         <div class="member-image">
-                            <i class="image-aazim-haris"></i>
+                            <i class="image-mr-ahamed"></i>
                         </div>
-                        <h3>Aazim Haris</h3>
+                        <h3>M.R. Ahamed</h3>
                         <p class="member-role">Founder & CEO</p>
-                        <p>With over 10 years in the footwear industry, Aazim founded City Walk with a vision to revolutionize how Sri Lankans shop for shoes.</p>
+                        <p>With over 10 years in the footwear industry, Ahamed founded City Walk with a vision to revolutionize how Sri Lankans shop for shoes.</p>
                     </div>
                     <div class="team-member">
                         <div class="member-image">
